@@ -17,11 +17,11 @@
     "email": "mitay-walle@mail.ru",
     "url": "https://github.com/mitay-walle"
   },
-    "samples": [
+  "samples": [
     {
-      "displayName": "Samples Name",
-      "description": "Samples description",
-      "path": "Samples/SamplesStandard"
+      "displayName": "ACV for SlicedFilledImage",
+      "description": "",
+      "path": "Samples/ACV_SlicedFilledImage"
     }
-  ]
+	]
 }
