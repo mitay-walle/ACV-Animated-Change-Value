@@ -1,0 +1,20 @@
+{
+  "name": "com.mitay-walle.acv",
+  "version": "1.0.0",
+  "displayName": "ACV - Animated Change Value",
+  "description": "Wrap change digits-value to make animation between changes, such as text counters, sliders, visual-object-line selectors",
+  "unity": "2018.4",
+  "licensesUrl": "https://github.com/mitay-walle/Transform_stuff/blob/master/LICENSE",
+  "dependencies": { 
+	  "com.unity.textmeshpro": "1.3.0"
+	  },
+ "keywords": [
+    "Animation",
+    "UI"
+  ],
+  "author": {
+    "name": "mitay-walle",
+    "email": "mitay-walle@mail.ru",
+    "url": "https://github.com/mitay-walle"
+  }
+}
